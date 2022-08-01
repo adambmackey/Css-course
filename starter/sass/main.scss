@@ -1,6 +1,6 @@
-@import "abstract/functions";
-@import "abstract/mixins";
-@import "abstract/variables";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "abstracts/variables";
 
 
 
@@ -12,6 +12,9 @@
 @import "components/button";
 
 @import "layout/header";
+@import "layout/grid";
 
 @import "pages/home";
+
+
 
